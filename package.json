@@ -1,0 +1,12 @@
+{
+  "name": "vanillanoderest_self",
+  "version": "1.0.0",
+  "description": "A vanilla Nodejs app for creating REST API with CRUD functionality. Build to learn the basic of Node and http req-res part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
